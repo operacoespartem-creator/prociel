@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.prociel.com.br/</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://www.prociel.com.br/media/home-hero.jpg</image:loc><image:caption>Loteamento com rede elétrica executada pela Prociel</image:caption></image:image>
+    <image:image><image:loc>https://www.prociel.com.br/media/antecipacao-3.jpg</image:loc><image:caption>Caminhão de linha viva da Prociel em loteamento</image:caption></image:image>
+    <image:image><image:loc>https://www.prociel.com.br/media/subestacao-transformador.jpg</image:loc><image:caption>Subestação aérea com transformador instalada pela Prociel</image:caption></image:image>
+    <image:image><image:loc>https://www.prociel.com.br/media/subestacao-camara-surubim.jpg</image:loc><image:caption>Subestação na Câmara Municipal de Surubim</image:caption></image:image>
+    <image:image><image:loc>https://www.prociel.com.br/media/redes-perfuratriz.jpg</image:loc><image:caption>Perfuratriz abrindo buraco para poste de rede elétrica</image:caption></image:image>
+    <image:image><image:loc>https://www.prociel.com.br/media/emp-linha-viva-2.jpg</image:loc><image:caption>Equipe Prociel em cestos aéreos trabalhando em linha viva</image:caption></image:image>
+  </url>
+</urlset>

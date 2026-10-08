@@ -1,0 +1,21 @@
+# Prociel — regras de rastreamento
+User-agent: *
+Allow: /
+
+# Assistentes e buscadores de IA podem ler o site (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.prociel.com.br/sitemap.xml
