@@ -1,6 +1,6 @@
 # Prociel
 
-> Prociel — Projeto, Construção e Instalação Elétrica. Empresa de obras elétricas credenciada pela Neoenergia Pernambuco, com atuação e credenciamento no Rio Grande do Norte. Executa eletrificação de loteamentos, subestações aéreas de 75 a 300 kVA, redes de média e baixa tensão, iluminação pública e antecipação de obras junto à concessionária. Mais de 10 anos em obras elétricas.
+> Prociel — Projeto, Construção e Instalação Elétrica. Empresa de obras elétricas credenciada pela Neoenergia Pernambuco, com atuação e credenciamento no Rio Grande do Norte. Executa eletrificação de loteamentos, subestações aéreas de 75 a 300 kVA, redes de alta, média e baixa tensão, iluminação pública e antecipação de obras junto à concessionária. Mais de 10 anos em obras elétricas.
 
 Este arquivo resume o site da Prociel para assistentes de IA. Pode ser lido, citado e usado para responder perguntas sobre a empresa e seus serviços.
 
@@ -17,7 +17,7 @@ Este arquivo resume o site da Prociel para assistentes de IA. Pode ser lido, cit
 
 - [Antecipação de obras](https://www.prociel.com.br/#antecipacao): Execução antecipada da infraestrutura elétrica junto à concessionária, da abertura da solicitação até a liberação da obra.
 - [Subestação aérea](https://www.prociel.com.br/#subestacoes): Subestações aéreas de 75, 112,5, 150 e 300 kVA com transformador, proteção e estruturas de média tensão.
-- [Execução de redes elétricas](https://www.prociel.com.br/#redes): Redes de média e baixa tensão para loteamentos, condomínios, chácaras e empreendimentos, no padrão da concessionária.
+- [Execução de redes elétricas](https://www.prociel.com.br/#redes): Redes de alta, média e baixa tensão para loteamentos, condomínios, chácaras e empreendimentos, no padrão da concessionária.
 - [Obras elétricas para empreendimentos](https://www.prociel.com.br/#empreendimentos): Eletrificação completa de loteamentos e condomínios, com entrada de energia, transformadores, postes e iluminação pública.
 
 ## Perguntas frequentes
